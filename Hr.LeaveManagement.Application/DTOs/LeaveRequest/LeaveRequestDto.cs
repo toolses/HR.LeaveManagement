@@ -1,11 +1,12 @@
 ﻿using Hr.LeaveManagement.Application.DTOs.Common;
+using Hr.LeaveManagement.Application.DTOs.LeaveType;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hr.LeaveManagement.Application.DTOs
+namespace Hr.LeaveManagement.Application.DTOs.LeaveRequest
 {
     public class LeaveRequestDto : BaseDto
     {
